@@ -1,112 +1,109 @@
-Privacy Policy
-1. ABOUT the “Steel Heaven”
-“Steel Heaven” (further in the text - the game) is a free of charge off line game designed specifically for use in the mobile application of your mobile device using ios and Android operating systems available for users all around the world.
-During the game you can explore the caves and catacombs of the ancient castle, fight the demonic Cult and clear the world from hordes of monsters. Look for rare armor and magic artifacts. Collect kits and choose exactly those that will help in a particular battle. Improve and enchant weapons, learn new skills, complete quests - and you will become a few steps closer to destroying the source of all troubles. Discover the secrets of the Cult and look for secret rooms with countless treasures. Find out what fate is destined for you and who you are destined to become - a hero about whom legends will be composed, or a nightmare that has subjugated the darkness to itself has become worse than ancient evil.
-This Privacy Policy covers the mobile application of the game, which contains an authorized link to this Privacy Policy. This Policy applies to our practices regarding “Steel Heaven” users over 12 years old.
-If you are an EEA resident, this whole Policy applies to you. However, EEA residents should see Section 13 below, which will inform you in detail about the personal information we process, how we process it, for which purposes we process it, with whom we share it, on what legal basis we process and transfer your personal information and which rights you have regarding the processing of your personal information.
-“Steel Heaven” developers are also committed to protecting the privacy of our users, including children over 12 years old. Please see the “Children’s Privacy and Parental Controls” section below for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with the Children’s Online Privacy Protection Act (“COPPA”).
-If you have any questions, comments, or concerns regarding this Privacy Policy and/or data practices, please contact us at the following support form or mailing address:
-Customer Support Form
-Andrey Vlasenko
-E-mail: support@studio3.tech
-Post address: Russian Federation, Rostov-on-Don
-Zip code: 344002
-Budenovskiy avenue, 3/3
-2. DEFINITIONS
-“Personal Information” means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
-“Processing” means any operation which is performed on personal information, such as collection, recording, organization, structuring, storage, adaptation or any kind of disclosure or other use.
-Any other capitalized term that is not defined in this Policy is defined and has the meaning set out in our Terms of Use.
-3. How “Steel Heaven” Works
-A user doesn’t need to create an account.
-According to the plot of the game, ancient evil awakens from the bowels of the earth, it breaks free, and its minions attack peaceful cities and turn them into ruins. You have to take control of a brave hero who wants to deal with evil and save the world. Go to explore the dungeons, find minions of evil and destroy them one by one. Get various equipment and weapons that are useful for you to meet with more powerful enemies, and also look for chests of gold.
-Many quests and randomly generated levels. Move further down the dungeons, unlock new abilities for your character as you progress through the game, enchant the weapon and make it deadly. You can also choose a special path for your hero, do you want to be on the side of good and destroy the minions of evil, or do you dream of becoming more dangerous than ancient evil and wreaking havoc on the world? Get ready for a meeting with numerous opponents and deadly bosses, various tasks and challenges, upgrade your character, find powerful equipment and earn amazing achievements.
-The game includes a virtual goods such as: coins, diamonds etc., users can earn or purchase them in a variety of ways.
-4. Information You Provide when Setting Up an “Steel Heaven”
-To use the “game” you do not need to create any account. Just download the “Steel Heaven” app from your smartphone and enjoy the game.
-NOTICE: At your IP address, the system automatically determines the country from which you download the application for the game, as well as the language used. "Steel Heaven" does not request this information.
-5. Purchases on the Service when using ‘Steel Heaven’
-You can purchase virtual coins and diamonds or any other virtual goods to play the game so you may use a variety of payment methods which are conducted through intermediaries. We do not make payments on our own.
-When making purchases, users may be required to enter billing information, including name, billing address, credit card information or other billing information, as well as the billing email address. Your payment information, transaction details and purchase history are not available to us, nor are they stored or used by us.
-You are under no obligation to provide personal information to “Steel Heaven” when requested. However, if you choose to withhold any requested information, we may not be able to provide you with certain services and features.
-6. In addition to the specific uses above, any information that you provide or that we collect on the Service may be generally used for the following purposes:
-to operate, maintain, and improve the game
-to give you access to the game and related features, or restrict your access;
-to personalize the game as well as make it more user-friendly;
-to provide technical support or customer service;
-to deliver advertising that may be relevant to your interests
-to identify and repair errors that impair existing intended functionality;
-to protect the integrity, safety, or security of the game or our users, comply with legal obligations, or enforce compliance with our Terms of Service, or other restrictions placed on your use of the game.
-7. Cookies and Similar Technologies
-Cookies
-A cookie is a small text file that is placed on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, for example so you don’t have to re-enter them whenever you come back to the website or browse from one page to another.
-When you visit or access the game, we may – by means of cookies, beacons, tags, scripts, and/or other similar technologies – automatically collect technical information about the devices and software you use to access the game, such as the type of Internet browser or mobile device you use, the website or source that linked or referred you to the Service, your IP address or device ID (or other persistent identifier that uniquely identifies your computer or mobile device on the Internet), the operating system of your computer or mobile device, and other similar technical information. These same technologies (or a combination of them) may also be used to help us:
-Compile statistics and analytics about your use of and interaction with the Service, including details about how and where our Service is downloaded from or accessed, how often a user visits or uses the Service, the date and time of user visits to, and actions on, the Service, which areas of the Service are visited and for how long, information regarding in-game activities, and other similar traffic, usage, and trend data;
-Mobile analytic tools to allow us to better understand the functionality of our mobile software on your device and gain insights about how mobile software is used;
-Gather important functionality, testing, and performance data about our Service, including performance data related to our mobile application,
-Moderate user behavior on the Service, such as protecting against payment fraud and other inappropriate activities;
-Perform other similar functions
-We will not use cookies or similar technologies other than for the purposes stated in this Privacy Policy.
-7.1. Third party advertising and ad networks
-“Steel Heaven” partners with third-party advertisers, ad server companies, and ad networks (“third-party advertising companies”) to promote the Game. If you respond to one of our advertisements and visit or register to use our Service, we or our service providers may provide these third-party advertising companies with identifiers from your device or computer, such as an IP address or device ID, to help us analyze our user acquisition efforts.
-For our users that are children, “Steel Heaven” partners with third-party advertising companies to serve contextual advertising, cap the frequency of advertising, and related uses permitted by COPPA. “Steel Heaven” does not show behaviorally-targeted or retargeted ads to children or track such users for targeted advertising purposes.
-7.2. Information Sharing
-Please note that “Steel Heaven” has not and does not sell personal information about you to third-party companies for their independent purposes. We may disclose your information for a business purpose as set forth below.
-7.3. Agents and contractors
-We may share users’ information, including personal information including but not limited to billing information or usernames, with our third-party agents, contractors, or service providers who are hired to perform services on “Steel Heaven” behalf. These providers may operate or support certain functions of the Service.
-Third party service providers used by the app
-Crashlytics
-Firebase
-Devtodev
-These agents and contractors are only allowed to use the personal information shared with them for the specific tasks they’ve been hired to do and consistent with this Privacy Policy, and for no other purposes, and they are not permitted to sell the personal information shared with them. We take steps to ensure that all service providers with access to personal information are capable of protecting the information we share with them.
-7.4. Legal disclosures
-We may disclose personal information about you as required or permitted by law and/or comply with a judicial proceeding, court order, or legal process served in our game. To the extent permitted by applicable law, we also may disclose personal information about you in response to a request from law enforcement agencies, regulators, or other public agencies (including schools or children services), or if we believe in good faith that such disclosure may prevent a crime, facilitate an investigation related to public safety or protect the safety of a child playing our game, protect the security or integrity of our game, or enable us to take precautions against liability or to protect our rights.
-7.5. Business transfers
-Information about our users, including personal information, may be disclosed and otherwise transferred to an acquirer, successor, or assignee as part of any merger, acquisition, sale of assets, or similar transaction, or in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets.
-7.6. De-identified information
-We share aggregated, automatically collected or otherwise identified personal information with third parties to the above for various purposes, including:
-compliance with reporting obligations;
-for commercial or marketing purposes;
-assist us and other parties in understanding the interests, habits and patterns of use by our users of certain programs, content, services, advertising, promotions and / or functions available through the game.
-8. Security and Data Retention
-Security
-The security of your personal information is important to us. We have security measures in place to attempt to protect the personal or other sensitive information submitted to us against the loss, misuse and alteration of personal information under our control. While we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use reasonable efforts to prevent it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.
-When using the “Steel Heaven” or providing personal information to us, we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the game.
-To promote safety and security on and for the game; and to resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with our legal obligations.
-We may retain your information for as long as is necessary and relevant to your use of the game and our operations, which may include retaining your information beyond the end of your use of the Service.
-9. External links
-Our game may, from time to time, contain links to external sites or applications. We are not responsible for the privacy policies or the content of such sites or applications. To make clear when you are linking to a third-party site or application, we may display a warning message informing you when you are leaving our game.
-10. Children’s Privacy and Parental Controls
-If you are a child, it is recommended that you talk with your parent (s) or guardian (s) and ask for permission before using or playing the game. If you do not receive such permission, you should not play the “Steel Heaven”.
-Parents should contact us immediately if they have any concerns about the game, they want to view information received from your child, or have changed or deleted this information. Please see the Contact Information Section for more details.
-11. Accessing and Updating Your Personal Information
-For children under the age of 12, please see the “Children’s Privacy and Parental Controls” section above. See Sections 14 and 15 for additional rights available to California and European Economic Area residents.
-12. Storage and International Transfer of Your Personal Information
-“Steel Heaven” is based in the Russian Federation. Your personal information which we collect are sent to and stored on secure servers of the third party service providers mentioned above (Section 7.3) Such storage is necessary in order to process the information.
-13. Additional Information for California Residents (effective January 1, 2020)
-In accordance with applicable law, you may have the following rights:
-Access to/Portability of Personal Information. You can receive a copy of categories of personal information and specific pieces of personal information we have collected about you in the past 12 months, consistent with legal requirements.
-Correction. You can request correction of your personal information where it is inaccurate or incomplete.
-Deletion. You can request us to delete personal information we collect or maintain about you, subject to certain exceptions prescribed by law.
-Restriction of or Objection to processing. You can request restriction or object to the processing of your personal information, and you have the right to opt in or opt out of the sale of your Personal Data to third parties, if applicable, where such requests are permitted by law.
-14. Additional Information for EEA Residents
-In the course of playing our game and using apps, and/or using our services and products, we may process the following personal information:
-Login information, which may include your IP address, device type, name, date and time of your visit, information on your browser version, information on your operating system, including language settings, MAC addresses, and User ID. We will process this information to provide you with the websites, apps and our online services. The legal basis for this processing activity is Article sec. 1 sent. 1 lit. b (“performance of a contract”) and lit. f (“legitimate interest”) GDPR. It is our legitimate interest to guarantee the app stability and security.
-Information relating to contacting our customer service, e.g. when you report a problem, submit questions, concerns or comments. We may process your email address, your name and information relating to your inquiry or concern in order to respond to your communications, fulfill your requests, or provide other customer support. This processing activity is based on your consent according to Article 6 sec. 1 sent. 1 lit. a GDPR and/or Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”), depending on the initial purpose for contacting our customer support.
-15. Your rights
-If you are a user based in the European Economic Area, you may be entitled to exercise some or all of the following rights:
-Require: information whether your personal information is retained and access to or duplicates of your personal information retained, including the purposes of the processing, the categories of personal information concerned, and the data recipients as well as potential retention periods;
-Request rectification, removal or restriction of your personal information, e.g. because: it is incomplete or inaccurate, it is no longer needed for the purposes for which it was collected, or the consent on which the processing was based has been withdrawn;
-Refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal information at any time;
-Object, on grounds relating to your particular situation, to processing of your personal information, in case such processing is either based on our or a third party’s legitimate interests or on a performance of a task carried out in the public interest. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal information or present you our compelling legitimate grounds for an ongoing processing;
-Object to the use of your personal information for direct marketing at any time;
-Take legal actions in relation to any potential breach of your rights regarding the processing of your personal information, as well as to lodge complaints before the competent data protection regulators; and/or
-Require: to receive the personal information concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the personal information transmitted directly from us to another controller.
-16. Privacy Policy Changes and Updates
-If we change the terms of the privacy policy you will see on your device, a pop-up window with the necessary information for the user.
-Last Updated: December 21, 2021
-Home
- Privacy Policy
- Terms of Use
- Feedback
-© All Rights Reserved. Studio3.tech.
-feedback@studio3.tech
+<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset='utf-8'>
+      <meta name='viewport' content='width=device-width'>
+      <title>Privacy Policy</title>
+      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
+    </head>
+    <body>
+    <strong>Privacy Policy</strong> <p>
+                  Studio3.tech built the Steel Heaven app as
+                  a Free app. This SERVICE is provided by
+                  Studio3.tech at no cost and is intended for use as
+                  is.
+                </p> <p>
+                  This page is used to inform visitors regarding our
+                  policies with the collection, use, and disclosure of Personal
+                  Information if anyone decided to use our Service.
+                </p> <p>
+                  If you choose to use our Service, then you agree to
+                  the collection and use of information in relation to this
+                  policy. The Personal Information that we collect is
+                  used for providing and improving the Service. We will not use or share your information with
+                  anyone except as described in this Privacy Policy.
+                </p> <p>
+                  The terms used in this Privacy Policy have the same meanings
+                  as in our Terms and Conditions, which are accessible at
+                  Steel Heaven unless otherwise defined in this Privacy Policy.
+                </p> <p><strong>Information Collection and Use</strong></p> <p>
+                  For a better experience, while using our Service, we
+                  may require you to provide us with certain personally
+                  identifiable information. The information that
+                  we request will be retained by us and used as described in this privacy policy.
+                </p> <div><p>
+                    The app does use third-party services that may collect
+                    information used to identify you.
+                  </p> <p>
+                    Link to the privacy policy of third-party service providers used
+                    by the app
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/support/privacy/" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+                  We want to inform you that whenever you
+                  use our Service, in a case of an error in the app
+                  we collect data and information (through third-party
+                  products) on your phone called Log Data. This Log Data may
+                  include information such as your device Internet Protocol
+                  (“IP”) address, device name, operating system version, the
+                  configuration of the app when utilizing our Service,
+                  the time and date of your use of the Service, and other
+                  statistics.
+                </p> <p><strong>Cookies</strong></p> <p>
+                  Cookies are files with a small amount of data that are
+                  commonly used as anonymous unique identifiers. These are sent
+                  to your browser from the websites that you visit and are
+                  stored on your device's internal memory.
+                </p> <p>
+                  This Service does not use these “cookies” explicitly. However,
+                  the app may use third-party code and libraries that use
+                  “cookies” to collect information and improve their services.
+                  You have the option to either accept or refuse these cookies
+                  and know when a cookie is being sent to your device. If you
+                  choose to refuse our cookies, you may not be able to use some
+                  portions of this Service.
+                </p> <p><strong>Service Providers</strong></p> <p>
+                  We may employ third-party companies and
+                  individuals due to the following reasons:
+                </p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p>
+                  We want to inform users of this Service
+                  that these third parties have access to their Personal
+                  Information. The reason is to perform the tasks assigned to
+                  them on our behalf. However, they are obligated not to
+                  disclose or use the information for any other purpose.
+                </p> <p><strong>Security</strong></p> <p>
+                  We value your trust in providing us your
+                  Personal Information, thus we are striving to use commercially
+                  acceptable means of protecting it. But remember that no method
+                  of transmission over the internet, or method of electronic
+                  storage is 100% secure and reliable, and we cannot
+                  guarantee its absolute security.
+                </p> <p><strong>Links to Other Sites</strong></p> <p>
+                  This Service may contain links to other sites. If you click on
+                  a third-party link, you will be directed to that site. Note
+                  that these external sites are not operated by us.
+                  Therefore, we strongly advise you to review the
+                  Privacy Policy of these websites. We have
+                  no control over and assume no responsibility for the content,
+                  privacy policies, or practices of any third-party sites or
+                  services.
+                </p> <p><strong>Children’s Privacy</strong></p> <div><p>
+                    These Services do not address anyone under the age of 13.
+                    We do not knowingly collect personally
+                    identifiable information from children under 13 years of age. In the case
+                    we discover that a child under 13 has provided
+                    us with personal information, we immediately
+                    delete this from our servers. If you are a parent or guardian
+                    and you are aware that your child has provided us with
+                    personal information, please contact us so that
+                    we will be able to do the necessary actions.
+                  </p></div> <!----> <p><strong>Changes to This Privacy Policy</strong></p> <p>
+                  We may update our Privacy Policy from
+                  time to time. Thus, you are advised to review this page
+                  periodically for any changes. We will
+                  notify you of any changes by posting the new Privacy Policy on
+                  this page.
+                </p> <p>This policy is effective as of 2021-12-21</p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about our
+                  Privacy Policy, do not hesitate to contact us at support@studio3.tech.
+                </p> <p>This privacy policy page was created at <a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer">privacypolicytemplate.net </a>and modified/generated by <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p>
+    </body>
+    </html>
